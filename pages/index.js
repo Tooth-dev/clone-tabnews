@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Que volte mais forte para continuar alegrando nossas vidas!</h1>
+    return <h1>Um abraço do Tchubilinha! 🤗</h1>
 }
 
 export default Home;
